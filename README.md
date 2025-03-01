@@ -20,7 +20,7 @@ To set up the environment for DOEI, follow these steps:
 ```sh
 # create a clean conda environment from scratch
 conda create --name DOEI python=3.7
-conda activate DOEI
+conda activate HPINet
 
 # install pip
 conda install ipython
